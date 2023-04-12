@@ -8,6 +8,7 @@
   "showBannerAds":true,
   "interstitialAdUnit":"/22405025169,22870746737/com.cadastrapps.consulta.recibo.luz.cfe.Interstitial",
   "openAppAdUnitId":"/22405025169,22870746737/com.cadastrapps.consulta.recibo.luz.cfe.AppOpen",
-  "bannerAdUnit":"/22405025169,22870746737/com.cadastrapps.consulta.recibo.luz.cfe.Banner"
+  "bannerAdUnit":"/22405025169,22870746737/com.cadastrapps.consulta.recibo.luz.cfe.Banner",
+  "showNews":false
   
 }
