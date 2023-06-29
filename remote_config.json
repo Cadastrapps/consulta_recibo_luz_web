@@ -1,14 +1,14 @@
 {
   "showAds":true,
-  "adsInterval":60,
+  "adsInterval":45,
   "showAppOpenAd":false,
-  "showFirstAd":true,
+  "showFirstAd":false,
   "showInterstitial":true,
   "showTestAds":false,
   "showBannerAds":true,
-  "interstitialAdUnit":"ca-app-pub-7996006950744275/9451014143",
-  "openAppAdUnitId":"ca-app-pub-7996006950744275/1507108462",
-  "bannerAdUnit":"ca-app-pub-7996006950744275/1315536779",
+  "interstitialAdUnit":"/22405025169,22870746737/com.cadastrapps.consulta.recibo.luz.cfe.Interstitial",
+  "openAppAdUnitId":"/22405025169,22870746737/com.cadastrapps.consulta.recibo.luz.cfe.AppOpen",
+  "bannerAdUnit":"/22405025169,22870746737/com.cadastrapps.consulta.recibo.luz.cfe.Banner",
   "showNews":true
   
 }
